@@ -1,5 +1,5 @@
 a sample for linq with clearly explained 
 here are the samples result 
-![graph](sample1.jpg)
-![stat](sample2.jpg)
-![data](sample3.jpg)
+![stat](https://github.com/MichaelVanHouHei/LinqDuGoat/blob/main/sample1.png)
+![data](https://github.com/MichaelVanHouHei/LinqDuGoat/blob/main/sample2.png)
+![graph](https://github.com/MichaelVanHouHei/LinqDuGoat/blob/main/sample3.png)
